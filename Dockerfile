@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM nodejs
+FROM daocloud.io/library/node
 
 # Install Ghost
 RUN \
